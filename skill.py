@@ -2,6 +2,9 @@ from datetime import datetime
 from typing import Literal
 
 from pydantic import BaseModel, Field
+import os
+from pathlib import Path
+import shutil
 
 
 class SkillMeta(BaseModel):
@@ -26,3 +29,15 @@ class SkillRecord(BaseModel):
     @property
     def full_markdown(self) -> str:
         return self.content
+
+
+if __name__ == "__main__":
+    current_dir = Path(__file__).parent
+    subdirs = [d.name for d in current_dir.iterdir() if d.is_dir()]
+    for subdir in subdirs:
+        if subdir.startswith("."):
+            continue
+        if subdir == "seedskills":
+            continue
+        skill_dir = current_dir / subdir
+        shutil.move(str(skill_dir), str(current_dir /"skills" / subdir))
