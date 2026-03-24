@@ -15,23 +15,23 @@
 
 | Skill | Description |
 |---|---|
-| [`compactness_argument`](./compactness_argument/) | Techniques for constructing compactness-based proofs |
-| [`complexity_template`](./complexity_template/) | Structured templates for complexity analysis |
-| [`concentration_inequalities`](./concentration_inequalities/) | Applying Hoeffding, Bernstein, and related bounds |
-| [`contradiction_proof`](./contradiction_proof/) | Proof by contradiction strategies and patterns |
-| [`eluder_dimension`](./eluder_dimension/) | Eluder dimension reasoning for function classes |
-| [`empirical_validation`](./empirical_validation/) | Empirical testing and experimental validation workflows |
-| [`fundamental_inequalities`](./fundamental_inequalities/) | Core inequalities: Cauchy-Schwarz, Jensen, AM-GM, etc. |
-| [`hypothesis_gen`](./hypothesis_gen/) | Systematic hypothesis generation for research |
-| [`induction_strategy`](./induction_strategy/) | Mathematical induction — base cases, inductive steps, strong induction |
-| [`latex_algorithm_and_syntax`](./latex_algorithm_and_syntax/) | Writing algorithms and proofs in clean LaTeX |
-| [`literature_decomp`](./literature_decomp/) | Decomposing and synthesizing research papers |
-| [`nonlinear_dueling_bandits_general_function_approximation`](./nonlinear_dueling_bandits_general_function_approximation/) | Dueling bandits with general nonlinear function classes |
-| [`overdamped_langevin_convergence`](./overdamped_langevin_convergence/) | Convergence analysis for overdamped Langevin dynamics |
-| [`paper_structure`](./paper_structure/) | Academic paper structure and writing discipline |
-| [`regularized_bandit_fast_rates`](./regularized_bandit_fast_rates/) | Fast convergence rates in regularized bandit settings |
-| [`rigorous_proof_citation_discipline`](./rigorous_proof_citation_discipline/) | Citation standards and proof rigor in academic writing |
-| [`underdamped_langevin_convergence`](./underdamped_langevin_convergence/) | Convergence analysis for underdamped (kinetic) Langevin |
+| [`compactness_argument`](./seedskills/compactness_argument/) | Techniques for constructing compactness-based proofs |
+| [`complexity_template`](./seedskills/complexity_template/) | Structured templates for complexity analysis |
+| [`concentration_inequalities`](./seedskills/concentration_inequalities/) | Applying Hoeffding, Bernstein, and related bounds |
+| [`contradiction_proof`](./seedskills/contradiction_proof/) | Proof by contradiction strategies and patterns |
+| [`eluder_dimension`](./seedskills/eluder_dimension/) | Eluder dimension reasoning for function classes |
+| [`empirical_validation`](./seedskills/empirical_validation/) | Empirical testing and experimental validation workflows |
+| [`fundamental_inequalities`](./seedskills/fundamental_inequalities/) | Core inequalities: Cauchy-Schwarz, Jensen, AM-GM, etc. |
+| [`hypothesis_gen`](./seedskills/hypothesis_gen/) | Systematic hypothesis generation for research |
+| [`induction_strategy`](./seedskills/induction_strategy/) | Mathematical induction — base cases, inductive steps, strong induction |
+| [`latex_algorithm_and_syntax`](./seedskills/latex_algorithm_and_syntax/) | Writing algorithms and proofs in clean LaTeX |
+| [`literature_decomp`](./seedskills/literature_decomp/) | Decomposing and synthesizing research papers |
+| [`nonlinear_dueling_bandits_general_function_approximation`](./seedskills/nonlinear_dueling_bandits_general_function_approximation/) | Dueling bandits with general nonlinear function classes |
+| [`overdamped_langevin_convergence`](./seedskills/overdamped_langevin_convergence/) | Convergence analysis for overdamped Langevin dynamics |
+| [`paper_structure`](./seedskills/paper_structure/) | Academic paper structure and writing discipline |
+| [`regularized_bandit_fast_rates`](./seedskills/regularized_bandit_fast_rates/) | Fast convergence rates in regularized bandit settings |
+| [`rigorous_proof_citation_discipline`](./seedskills/rigorous_proof_citation_discipline/) | Citation standards and proof rigor in academic writing |
+| [`underdamped_langevin_convergence`](./seedskills/underdamped_langevin_convergence/) | Convergence analysis for underdamped (kinetic) Langevin |
 
 ---
 
